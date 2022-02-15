@@ -1,4 +1,4 @@
-# ผลการสำรวจ microcontroller board
+# ผลการสำรวจ บอร์ด ไมโครคอนโทรเลอร์
 
 ## STM8S103F3P6 STM8S STM8 Development Board
 
