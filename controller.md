@@ -13,9 +13,11 @@
 
 พอร์ท : 
 
-input voltage range 4.5V-15V
+Up to 28 I/Os on a 32-pin package including 21 high sink outputs
 
-output to the outside through pin 3.3V
+Highly robust I/O design, immune against current injection
+
+Unique ID
 
 link : 
  https://shopee.co.th/STM8S103F3P6-System-Board-STM8S-STM8-Development-Board-Minimum-Core-Board-i.137614635.2478534313
