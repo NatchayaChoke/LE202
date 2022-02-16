@@ -128,11 +128,12 @@ https://www.arrow.com/en/products/frdm-kl27z/nxp-semiconductors?gclid=Cj0KCQiAu6
 ความจำ : 1 MB
 
 พอร์ท : 
-https://www.arrow.com/en/products/om40000ul/nxp-semiconductors?gclid=Cj0KCQiAu62QBhC7ARIsALXijXQnCZx-Rm0rzDHRnWN3yR9Az5oJ9sF8sJCjcf4pRz5TEefsM2MnYRgaAohuEALw_wcB&gclsrc=aw.ds
+
 based on LPC11U35 MCU
 
 link : 
 https://th.element14.com/nxp/om40000ul/dev-board-cortex-m0-mcu/dp/2846658
 
+https://www.arrow.com/en/products/om40000ul/nxp-semiconductors?gclid=Cj0KCQiAu62QBhC7ARIsALXijXQnCZx-Rm0rzDHRnWN3yR9Az5oJ9sF8sJCjcf4pRz5TEefsM2MnYRgaAohuEALw_wcB&gclsrc=aw.ds
 
  
