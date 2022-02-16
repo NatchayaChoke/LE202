@@ -1,6 +1,6 @@
 # ผลการสำรวจ บอร์ด ไมโครคอนโทรเลอร์
 
-## STM8S103F3P6 STM8S STM8 Development Board
+## STM8S103F3P6 STM8S STM8 
 
 !![image](https://user-images.githubusercontent.com/98943695/154113177-e788b1b2-4408-47f4-90e3-371924d8250d.png)
 
