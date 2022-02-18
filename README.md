@@ -41,7 +41,7 @@ ioset1 เตรียมพัฒนาmicrocontroller
 
 4)Run Relay ใช้Microcontrollerต่อบนRelayเพื่อคุมสัญญาณOn-Off โดยการเขียนโปรแกรม
 
-5)ทดลองOn-Off diot กำหนดinputจากport0 outputจากport2 จะเขียนโปรแกรมให้outputเป็น0 ถ้าแสดงค่า1จะoff แสดงค่า0จะOn
+5)ทดลองOn-Off diodes กำหนดinputจากport0 outputจากport2 จะเขียนโปรแกรมให้outputเป็น0 ถ้าแสดงค่า1จะoff แสดงค่า0จะOn
 
 หากกดปุ่มดำจะแสดงค่า0 เมื่อต่อเซนเซอร์ถ้าไม่ได้รับแสงจะเป็นค่า1(Off) รับแสงเป็นค่า1(On)
 
